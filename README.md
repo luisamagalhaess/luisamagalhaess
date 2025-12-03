@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning Python | HTML | Javascript | CSS<br>🎯 Goals: Learn more about programming and build practical projects <br>🎲 Fun fact: Nakmuay</p>
+<p align="left"><br>📚 I'm currently learning Python | Javascript<br>🎯 Goals: Learn more about programming and build practical projects <br>🎲 Fun fact: Nakmuay</p>
 
 ###
 
@@ -23,6 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img width="12" />
+
 
 
 </div>
